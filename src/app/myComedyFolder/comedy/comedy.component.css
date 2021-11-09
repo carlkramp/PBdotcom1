@@ -1,0 +1,136 @@
+/*.navbar-brand {
+  color: black;
+}
+*/
+
+.header {
+  text-align: center;
+  position: relative;
+  /*font-family: 'Bangers', cursive;*/
+  /*font-family: 'Staatliches', cursive;*/
+  /*font-family: "Comic Sans MS", "Comic Sans", cursive;*/
+  /*font-family: 'Papyrus', fantasy;*/
+  /*font-family: 'Times New Roman', Serif;*/
+  /*font-family: 'Courier New', Monospace;*/
+  /*font-family: 'Brush Script MT', Cursive;*/
+  /*--------------------------------*/
+
+  /*Josefin Sans: */
+   /*font-family: 'Josefin Sans', sans-serif;*/
+
+  /*Comfortaa:*/
+  /*font-family: 'Comfortaa', cursive;*/
+
+  /*Quicksand:*/
+  font-family: 'Quicksand', sans-serif;
+
+  /*Cinzel*/
+  /*font-family: 'Cinzel', serif;*/
+
+  /*Special Elite*/
+  /*font-family: 'Special Elite', cursive;*/
+
+  font-weight: bold;
+  font-size: 120px;
+  /*padding-left: 98px;*/
+  padding-left: 7%;
+}
+
+.pageSelection {
+  text-align: center;
+  /*padding-right: 32px;*/
+  padding-right: 1.7%;
+}
+
+  .pageSelection p {
+    font-size: 30px;
+    display: inline;
+   
+  }
+
+.pageSelectionAnchorText {
+  color: royalblue;
+  /*font-weight: bold;*/
+}
+
+.container {
+  position: relative;
+  width: 75%;
+  margin-top: 1%;
+  margin-bottom: 0px;
+}
+
+.upcomingShows {
+  margin-top: 7px;
+  border-style: inset;
+  /*
+  border-style:double
+  border-style: inset;
+  */
+  text-align: center;
+  height: 55vh;
+  background-color: lightblue;
+}
+
+.contactMe {
+  margin-top: 7px;
+  border-style: inset;
+  text-align: center;
+  height: 55vh;
+  /*background-color: paleturquoise;*/
+  /*background-color: #00c1f7;*/
+  background-color: lightblue;
+}
+
+
+
+.videoContent {
+  margin-top: 7px;
+  /*height: 75vh;*/
+  height: 50vh;
+  margin-bottom: 10%;
+}
+
+.profilePic {
+    width: 100%;
+    height: 500px;
+    margin-bottom: 45px;
+}
+
+.aboutMeSection {
+  border-style: inset;
+  text-align: center;
+  height: 53vh;
+  background-color: lightblue;
+}
+
+.aboutMeHeader {
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.aboutMe {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.background {
+  position: relative;
+  z-index: 1;
+}
+
+  .background:before {
+    content: " ";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: .3;
+    z-index: -1;
+    background: url(chicagoTrainYardBackgroundImage.jpg);
+    background-size: cover;
+  }
+
+
+

@@ -1,0 +1,61 @@
+
+/*upcomingShows*/
+.show {
+  font-size: large;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.showHeader {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+
+/*findMe*/
+.contact {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.socials {
+  font-size: large;
+  font-weight: bold;
+}
+
+.findMeHeader {
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.contactHeader {
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.twitterIcon {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}
+
+.instaIcon {
+  margin-left: 5px;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}
+
+.soundCloudLogo {
+  margin-left: 5px;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}
+
+.spotifyLogo {
+  margin-left: 5px;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}
