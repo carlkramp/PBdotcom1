@@ -1,16 +1,7 @@
 {
   "ExpandedNodes": [
     "",
-    "\\src",
-    "\\src\\app",
-    "\\src\\app\\myComedyFolder",
-    "\\src\\app\\myComedyFolder\\comedy",
-    "\\src\\app\\myComedyFolder\\upcoming-shows",
-    "\\src\\app\\myMusicFolder",
-    "\\src\\app\\myMusicFolder\\music-info",
-    "\\src\\app\\public",
-    "\\src\\app\\public\\find-me"
+    "\\src"
   ],
-  "SelectedNode": "\\src\\app\\myComedyFolder\\comedy\\comedy.component.ts",
   "PreviewInSolutionExplorer": false
 }

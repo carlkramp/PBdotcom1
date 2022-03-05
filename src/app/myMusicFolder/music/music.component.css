@@ -26,8 +26,9 @@
 
 .container {
   position: relative;
-  width: 75%;
+  width: 85%;
   margin-top: 1%;
+  word-wrap: break-word
 }
 
 .contactMe {
@@ -35,6 +36,7 @@
   border-style: inset;
   text-align: center;
   height: 56vh;
+  width: auto;
   background-color: #b4a7d6
 }
 
@@ -62,7 +64,8 @@
 .aboutMeSection {
   border-style: inset;
   text-align: center;
-  height: 53vh;
+  /*height: 53vh;*/
+  height: auto;
   background-color: #b4a7d6
 }
 

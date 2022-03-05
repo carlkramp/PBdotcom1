@@ -30,18 +30,15 @@
 
 .container {
   position: relative;
-  width: 75%;
+  width: 85%;
   margin-top: 1%;
   margin-bottom: 0px;
+  word-wrap: break-word
 }
 
 .upcomingShows {
   margin-top: 7px;
   border-style: inset;
-  /*
-  border-style:double
-  border-style: inset;
-  */
   text-align: center;
   height: 55vh;
   background-color: lightblue;
@@ -62,6 +59,7 @@
 .videoContent {
   margin-top: 7px;
   height: 50vh;
+  width: auto;
   margin-bottom: 10%;
 }
 
